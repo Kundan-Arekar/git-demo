@@ -4,5 +4,8 @@
 
 some content
 
+<<<<<<< HEAD
 More content
 
+=======
+>>>>>>> feature
